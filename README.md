@@ -1,10 +1,12 @@
 ### Welcome on my github
 
 - I'm know:
-  - c
-  - python
+  - C
+  - Python
+  - JavaScript
+  - Haskell
 - I’m currently learning:
-  - Webdev (forntend bootstrap, jquery etc.)
+  - Webdev (React, express etc.)
 - Ask me about: Anythnig
 - How to reach me:
   - on Discord: xeeny#9511
